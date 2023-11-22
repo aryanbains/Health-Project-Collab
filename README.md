@@ -59,7 +59,7 @@ Followed by these commands in terminal itself:
 
 ##### python manage.py makemigrations women
 
-##### python manage.py migrate
+##### python manage.py migrate nn
 
 *************************************************************
 
