@@ -20,18 +20,19 @@ PPT Link: https://www.canva.com/design/DAF0jBdtf4k/fUcU7BgfAXKplDZNQsJFKg/edit?u
 How to Clone this repo
 Open gitbash and type the following command:
 
-git clone- https://github.com/aryanbains/Hyper-Evolve-Logic-Programmers-MAIT4.0/tree/main
-Create virtual environment, Open Visual Studio code and type the following command in terminal:
+1. git clone- https://github.com/aryanbains/Hyper-Evolve-Logic-Programmers-MAIT4.0/tree/main
+2. Create virtual environment, Open Visual Studio code and type the following command in terminal:
 
-pip install -r reqirements.txt
-Followed by these commands in terminal itself:
+3. pip install -r reqirements.txt
+   Followed by these commands in terminal itself:
 
-python manage.py migrate
-python manage.py makemigrations women
-python manage.py migrate
-To run the SAFehER app then type:
+4. python manage.py migrate
 
-python manage.py runserver
+5. python manage.py makemigrations women
+6. python manage.py migrate
+ To run the our app then type:
+
+7. python manage.py runserver
 This would make the app run in the browser..
 
 In order to access the django-admin, One must create a superuser so type the following command for the same:
