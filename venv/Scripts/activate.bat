@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\aryan\Downloads\SAFehER-main\SAFehER-main\venv
+set VIRTUAL_ENV=C:\Users\user\Desktop\Health-Project-Collab\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
